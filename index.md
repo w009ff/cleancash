@@ -30,6 +30,9 @@
 
 [協賛店一覧](https://mizutanikosuke.github.io/kyousanten/ "協賛店一覧")
 
-![内部リンク(ロゴ)](113_main.jpg)<br>
+![内部リンク(ロゴ)](113_main.jpg)[^1] <br>
 また、上記のマークのある店舗でご利用できます。<br>
 ![内部リンク](スライド3.JPG)
+<br><br>
+[^1]:(https://logo-marche.net/
+)
